@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gambar/Splash Screen/Splash Screen.unity
+    guid: 699f2e8cc4ea6ed4c82754438045cf8a
+  - enabled: 1
+    path: Assets/Gambar/Home Screen/Home Screen.unity
+    guid: 91bbbaf99bad858469b8de09da72cf88
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Mulai Screen.unity
+    guid: b9c421d8b43785e4c87fe6fe8c329602
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Balok.unity
+    guid: 9e58bef213d2a684a9264311148c540e
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Kubus.unity
+    guid: 846080e30cf341241be42cf526581787
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Limas Segiempat.unity
+    guid: 99c7b1b500c96024fa6558d64a11021f
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Prisma Segitiga.unity
+    guid: 33404a5408c4f3f428e0cdb7c64bab88
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Limas Segitiga.unity
+    guid: 8ceef910a87a3634bbed7ad1e188705f
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Tabung.unity
+    guid: f41b6bea5952b0e4e9d3b333fde7e3d6
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Materi Kerucut.unity
+    guid: 0b303610fe8a68444ab74c51f581c718
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Balok.unity
+    guid: ee3905fc48a23ba4d9362724f738b0c9
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Kubus.unity
+    guid: d756f9bb7c200214f965a1be01a6c7fe
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Limas Segiempat.unity
+    guid: e140e6af0203f704eb87987b08503599
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Prisma Segitiga.unity
+    guid: 2a3cedb9bf7e34945909249fc15d448f
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Limas Segitiga.unity
+    guid: 3b06ed5d9c55f04499aaf64bd5b59d3b
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Tabung.unity
+    guid: 3b3f1baa6feddf04a92b6653c810b00a
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rumus Kerucut.unity
+    guid: 0e5ce9031bf671744993c2e49f0ce102
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Jaring Screen.unity
+    guid: 1e64e6d599e142c4f9e5d0b912668520
+  - enabled: 1
+    path: Assets/Gambar/Mulai Screen/Rusuk Screen.unity
+    guid: acd6b6fc1bb41ff478b31f1028043efd
+  - enabled: 1
+    path: Assets/Gambar/Panduan Screen/Panduan Screen.unity
+    guid: 58a974d6f2272a04980ba1c3cc9e8710
+  - enabled: 1
+    path: Assets/Gambar/Profil Screen/Profil Screen.unity
+    guid: 943a60a0979067b4ca5559b7e51f16dd
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis Screen.unity
+    guid: 5b4256f2b54eac645826117e87026565
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis 1.unity
+    guid: 77a2ca881ae59a24497a9abe703ace8d
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis 2.unity
+    guid: 6b0d11ff35b74424990caf9940fe9d15
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis 3.unity
+    guid: bd17817980ab17742812887bee233cca
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis 4.unity
+    guid: a93d9f0201c0ad742af1cbebb14a676a
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Kuis 5.unity
+    guid: bb06b90b1cf1abe41ba8721b2dd0bf50
+  - enabled: 1
+    path: Assets/Gambar/Kuis Screen/Hasil.unity
+    guid: 0e45486ae1b050249bfcef940fec8748
+  m_configObjects: {}

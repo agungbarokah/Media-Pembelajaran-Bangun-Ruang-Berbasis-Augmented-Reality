@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kerucut" size="1.000000 0.700265" />
+    <ImageTarget name="Tabung" size="1.000000 0.700265" />
+    <ImageTarget name="Limas_Segitiga" size="1.000000 0.700265" />
+    <ImageTarget name="Prisma_Segitiga" size="1.000000 0.700265" />
+    <ImageTarget name="Limas_Segiempat" size="1.000000 0.700265" />
+    <ImageTarget name="Kubus" size="1.000000 0.700265" />
+    <ImageTarget name="Balok" size="1.000000 0.700265" />
+  </Tracking>
+</QCARConfig>
